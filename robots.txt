@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://classics.ugatta-llc.com/sitemap.xml
